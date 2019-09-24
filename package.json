@@ -1,0 +1,29 @@
+{
+  "name": "barbearia",
+  "version": "1.0.0",
+  "description": "barberia desenvolvida durante o curso de html e css (frontend) da alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmiranda/barbearia.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "frontend",
+    "alura"
+  ],
+  "author": "phmiranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phmiranda/barbearia/issues"
+  },
+  "homepage": "https://github.com/phmiranda/barbearia#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1"
+  }
+}
