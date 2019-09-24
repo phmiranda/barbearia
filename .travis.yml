@@ -1,0 +1,10 @@
+language: node_js
+
+before_install:
+  - sudo apt-get update
+  - sudo npm -g install express
+  - sudo npm install
+
+deploy:
+  on:
+    branch: master
