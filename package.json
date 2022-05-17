@@ -24,6 +24,6 @@
   "homepage": "https://github.com/phmiranda/barbearia#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.6.0"
   }
 }
