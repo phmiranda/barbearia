@@ -4,6 +4,7 @@
   "description": "barberia desenvolvida durante o curso de html e css (frontend) da alura",
   "main": "index.js",
   "scripts": {
+    "local": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
