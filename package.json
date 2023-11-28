@@ -1,7 +1,7 @@
 {
   "name": "barbearia",
   "version": "1.0.0",
-  "description": "barberia desenvolvida durante o curso de html e css (frontend) da alura",
+  "description": "barberia desenvolvida durante o curso de HTML5 e CSS3 (desenvolvedor frontend) da Alura",
   "main": "index.js",
   "scripts": {
     "local": "npm start",
